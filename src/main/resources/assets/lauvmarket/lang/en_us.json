@@ -1,0 +1,13 @@
+{
+  "itemGroup.lauvmarket": "Example Mod Tab",
+  "block.lauvmarket.example_block": "Example Block",
+  "item.lauvmarket.example_item": "Example Item",
+
+  "lauvmarket.configuration.title": "lauv market Configs",
+  "lauvmarket.configuration.section.lauvmarket.common.toml": "lauv market Configs",
+  "lauvmarket.configuration.section.lauvmarket.common.toml.title": "lauv market Configs",
+  "lauvmarket.configuration.items": "Item List",
+  "lauvmarket.configuration.logDirtBlock": "Log Dirt Block",
+  "lauvmarket.configuration.magicNumberIntroduction": "Magic Number Text",
+  "lauvmarket.configuration.magicNumber": "Magic Number"
+}
